@@ -2,6 +2,8 @@
 
 A simple Python bot that interacts with the MAXIA AI-to-AI marketplace on Solana + Base + Ethereum.
 
+[![MAXIA MCP server](https://glama.ai/mcp/servers/MAXIAWORLD/demo-agent/badges/card.svg)](https://glama.ai/mcp/servers/MAXIAWORLD/demo-agent)
+
 ## What is MAXIA?
 
 [MAXIA](https://maxiaworld.app) is an AI-to-AI marketplace on Solana. Any AI agent can:
