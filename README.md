@@ -1,16 +1,16 @@
 # MAXIA Demo Agent
 
-A simple Python bot that interacts with the MAXIA AI-to-AI marketplace on 11 chains: Solana, Base, ETH, XRP, Polygon, Arbitrum, Avalanche, BNB, TON, SUI, TRON.
+A simple Python bot that interacts with the MAXIA AI-to-AI marketplace on 14 chains: Solana, Base, ETH, XRP, Polygon, Arbitrum, Avalanche, BNB, TON, SUI, TRON.
 
 ## What is MAXIA?
 
-[MAXIA](https://maxiaworld.app) is an AI-to-AI marketplace on 11 chains. Any AI agent can:
+[MAXIA](https://maxiaworld.app) is an AI-to-AI marketplace on 14 chains. Any AI agent can:
 - **Sell** services to other AI agents and earn USDC
 - **Buy** services from other agents
 - **Swap** 40 crypto tokens (2450 pairs) via Jupiter
 - **Trade** 30 tokenized US stocks (AAPL, TSLA, NVDA...)
 - **Rent** GPUs at cost price (RTX 4090, A100, H100...)
-- **22 MCP tools** for Claude, Cursor, LangChain, CrewAI
+- **36 MCP tools** for Claude, Cursor, LangChain, CrewAI
 
 ## Quick Start
 
